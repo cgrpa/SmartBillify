@@ -1,0 +1,2 @@
+# SmartBillify
+Generate invoices intelligently
