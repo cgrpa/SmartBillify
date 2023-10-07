@@ -10,7 +10,7 @@ SmartBillify is a modest weekend project I've embarked on, aimed at generating P
 - **Automated Due Date**: Automatically calculates due date from the invoice date.
 
 Example PDF:
-[invoice_adjusted_INV12345.pdf](https://github.com/cgrpa/SmartBillify/files/12838258/invoice_adjusted_INV12345.pdf)
+![invoice_adjusted_INV12345.pdf](https://github.com/cgrpa/SmartBillify/files/12838258/invoice_adjusted_INV12345.pdf)
 
 # 🧾 SmartBillify
 
