@@ -1,53 +1,41 @@
-# 🧾 Invoice Generator
+# 🧾 SmartBillify
 
-Invoice Generator is a Python-powered tool designed to streamline and automate the process of creating professional PDF invoices.
+SmartBillify is a modest weekend project I've embarked on, aimed at generating PDF invoices with a touch of automation in Python.
 
 ## 🌟 Features
 
-- **Dynamic Invoice Creation**: Craft PDF invoices on-the-fly.
-- **Companies House Integration**: Confirm company details and addresses with ease.
-- **VAT Verification**: Authenticate VAT numbers via the HMRC API.
-- **Automated Date Handling**: Set due dates based on invoice dates without manual calculations.
-- **Stylish PDF Output**: Elegantly styled invoices for a professional look.
+- **Generate PDF Invoices**: Simple and clean invoice design.
+- **Companies House Lookup**: Verify company details in a jiffy.
+- **VAT Verification**: Double-check VAT numbers with the HMRC API.
+- **Automated Due Date**: Automatically calculates due date from the invoice date.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-Ensure you have the following libraries installed:
+Make sure you have the following Python libraries:
 
-- `fpdf`: For crafting the PDFs.
-- `requests`: To communicate with external APIs.
-- `uuid`: For unique invoice number generation.
-- `datetime`: For date manipulations.
+- `fpdf`: To design the PDF layout.
+- `requests`: To talk with external APIs.
+- `uuid`: To generate unique invoice numbers.
+- `datetime`: To handle dates.
 
-### Basic Usage
+### How to Use
 
-1. 📋 Define the sender and recipient details.
-2. 📦 Enumerate the services/products provided.
-3. 🧮 Call `generate_invoice_adjusted()` to get your invoice as a PDF.
-
-## 📖 Sample
-
-The output invoice will showcase:
-
-- Detailed sender and recipient sections.
-- A clear breakdown of services/products with costs.
-- Net, Tax (VAT), and total amounts.
-- Verification markers to indicate validated data.
+1. Define the sender's and recipient's information.
+2. List down the items or services you're billing for.
+3. Call the `generate_invoice_adjusted()` function to produce your invoice in PDF format.
 
 ## 📚 Dependencies
-
-This project leans on several external libraries:
 
 - `fpdf`
 - `requests`
 - `uuid`
 - `datetime`
 
-## 🌱 Future Enhancements
+## 📌 Planned Features
 
-- Dive deeper with more API integrations.
-- Choose from a variety of invoice styles.
-- Multicurrency and varied tax rate support.
-- Robust error handling and detailed logs.
+- **Web Front End**: A user-friendly interface to allow users to input their invoice details.
+- **LLM-based Parsing**: Utilize Language Model-based parsing to intelligently interpret and generate invoices from free text inputs.
+
+## 🤔 Thoughts
