@@ -11,6 +11,7 @@ SmartBillify is a modest weekend project I've embarked on, aimed at generating P
 
 Example PDF:
 ![invoice_adjusted_INV12345.pdf](https://github.com/cgrpa/SmartBillify/files/12838258/invoice_adjusted_INV12345.pdf)
+![Capture (1) (1)](https://github.com/cgrpa/SmartBillify/assets/95618126/3675bf18-cde2-46f0-bcee-d9cd562ba679)
 
 # 🧾 SmartBillify
 
