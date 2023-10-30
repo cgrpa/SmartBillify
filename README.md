@@ -55,7 +55,7 @@ Make sure you have the following Python libraries:
 
 ## 🤔 Thoughts
 
-It was a delightful weekend exercise! There's a lot of scope for improvement and adding more features. Any feedback or suggestions are welcome.
+It was a delightful weekend exercise! There's a lot of scope for improvement, bugs to fix and features to add. Any feedback or suggestions are welcome.
 
 
 # 🧾 SmartBillify
